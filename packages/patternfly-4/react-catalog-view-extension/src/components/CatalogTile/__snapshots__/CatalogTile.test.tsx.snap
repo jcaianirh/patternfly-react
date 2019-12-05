@@ -72,7 +72,7 @@ exports[`CatalogTile href renders properly 1`] = `
             className="catalog-tile-pf-description"
           >
             <span
-              className=""
+              className="co-line-clamp"
             >
               1234567890123
             </span>
@@ -410,7 +410,7 @@ exports[`CatalogTile renders properly 1`] = `
               className="catalog-tile-pf-description"
             >
               <span
-                className=""
+                className="co-line-clamp"
               >
                 A community of designers and developers collaborating to build a UI framework for enterprise web applications.
               </span>
@@ -861,7 +861,7 @@ exports[`CatalogTile renders properly 1`] = `
               className="catalog-tile-pf-description"
             >
               <span
-                className=""
+                className="co-line-clamp"
               >
                 Simple collaboration from your desktop.
               </span>
@@ -1147,7 +1147,7 @@ exports[`CatalogTile renders properly 1`] = `
               className="catalog-tile-pf-description"
             >
               <span
-                className="truncated"
+                className="co-line-clamp truncated"
               >
                 This is a very long description that should be truncated after 112 characters. 112 is the default but can be 
                 …
@@ -1421,7 +1421,7 @@ exports[`CatalogTile renders properly 1`] = `
               className="catalog-tile-pf-description"
             >
               <span
-                className=""
+                className="co-line-clamp"
               >
                 An online community for testing and showcasing user-created HTML, CSS and JavaScript code snippets.
               </span>
@@ -1518,7 +1518,7 @@ exports[`CatalogTile renders properly 1`] = `
               className="catalog-tile-pf-description"
             >
               <span
-                className="truncated"
+                className="co-line-clamp truncated"
               >
                 truncated
               </span>
@@ -1798,7 +1798,7 @@ exports[`CatalogTile renders properly 1`] = `
               className="catalog-tile-pf-description"
             >
               <span
-                className="truncated"
+                className="co-line-clamp truncated"
               >
                 This is a very long description that should be truncated after 112 characters. 112 is the default but can be 
                 …
@@ -1946,7 +1946,7 @@ exports[`CatalogTile renders properly 1`] = `
               className="catalog-tile-pf-description"
             >
               <span
-                className=""
+                className="co-line-clamp"
               />
             </div>
           </div>
